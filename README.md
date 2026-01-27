@@ -21,7 +21,6 @@ A map-based workout tracking web application that allows users to log running an
 - OpenStreetMap
 
 ## Demo
-[Live Demo]([your-link-here](https://github.com/dpkalimbu/mapty-workout-tracker)
-
+[[Live Demo](https://dpkalimbu.github.io/mapty-workout-tracker/)]
 
 
