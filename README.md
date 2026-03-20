@@ -1,11 +1,10 @@
-
 # Workout Tracker (Leaflet + JavaScript)
 
 A map-based workout tracking web application that allows users to log running and cycling activities using geolocation.
 📍 Track your workouts directly on the map — simple, fast, and persistent.
 
-
 ## Features
+
 - Interactive map using Leaflet
 - Log running & cycling workouts
 - Automatic pace and speed calculation
@@ -14,6 +13,7 @@ A map-based workout tracking web application that allows users to log running an
 - Delete workouts
 
 ## Tech Stack
+
 - HTML5
 - CSS3
 - JavaScript (ES6+)
@@ -21,6 +21,5 @@ A map-based workout tracking web application that allows users to log running an
 - OpenStreetMap
 
 ## Demo
-[[Live Demo](https://dpkalimbu.github.io/mapty-workout-tracker/)]
 
-
+[[Live Demo](https://dpkalimbu-dev.github.io/workout-tracker-map/)]
